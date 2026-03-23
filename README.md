@@ -13,9 +13,12 @@ This project provides a robust Excel-based solution for quantitative portfolio a
 **3. Automated Charting:** Automatically generate dedicated chart sheets for the selected companies and the overall portfolio.
 
 **4. Comprehensive Risk Metrics:** Calculates and displays key statistical indicators directly on the graphs, including:
-      - **Mean:** To assess average expected return.
-      - **Standard Deviation:** To measure total volatility.
-      - **Semi-Standard Deviation:** To evaluate downside risk and potential losses.
+
+      - Mean: To assess average expected return.
+      
+      - Standard Deviation: To measure total volatility.
+      
+      - Semi-Standard Deviation: To evaluate downside risk and potential losses.
 
 **5. Portfolio Value Tracking:** Visualizes the change in portfolio value over time, assuming a baseline initial value of 100.
 
