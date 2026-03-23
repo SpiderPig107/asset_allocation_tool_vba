@@ -15,7 +15,7 @@ exportFolder = "/Users/pc1/Documents/GitHub/asset_allocation_tool_vba/"
     
         For i = 1 To .VBComponents.Count
              sName = .VBComponents(i).CodeModule.Name
-             .VBComponents(i).Export exportFolder & sName & ".vb"
+             .VBComponents(i).Export exportFolder & sName & ".vba"
         Next i
         
     End With
