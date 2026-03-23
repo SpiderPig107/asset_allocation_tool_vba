@@ -1,6 +1,8 @@
 # VBA Investment Portfolio Performance Analyzer
 Automated VBA portfolio analyzer with dynamic risk modeling and performance visualization.
 
+To experience the full automation and dynamic charting, I recommend downloading the original macro-enabled workbook. The file name is ```Project_v.1.14.xlsm```.
+
 ## Project Overview
 This project provides a robust Excel-based solution for quantitative portfolio analysis. It enables users to select specific assets from a pre-defined list and evaluate their combined performance using both standard and downside risk metrics. The tool automates the entire process from data processing to report generation via custom VBA macros.
 
